@@ -52,7 +52,7 @@ if __name__ == '__main__':
     print(new_substring2)
     print(new_substring3)
 
-    # Finding the index of the first matching character or substring
+    # Finding the index of the first matching character or substringghchgf
     index = new_str.find('o')
     print('\'o\' 1st appearance at index: ' + str(index))
     index = new_str.find('o', index+1)
